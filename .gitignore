@@ -1,0 +1,4 @@
+target/
+*.war
+*.class
+nb-configuration.xml
